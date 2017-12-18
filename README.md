@@ -10,6 +10,14 @@ Webアプリケーションのクローリング結果をXSS脆弱性検証す�
 * keras
 * numpy
 
+# Operation check environment
+* Python 3.6.2
+* beautifulsoup4 4.6.0
+* selenium 3.5.0
+* tensorflow 1.3.0
+* keras 2.0.8
+* numpy 1.13.3
+
 # Usage
 ```
 # python main.py [ROOT-URL]
@@ -36,3 +44,7 @@ http://127.0.0.1:8080/xss/reflect/full1?in=ANTI_XSS0
 EXISTS!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
+
+## Author
+
+[Kazushi Nagao](https://github.com/k884554)
