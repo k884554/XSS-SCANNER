@@ -1,4 +1,6 @@
 # XSS-SCANNER
 
 # Usage
-> # python main.py [ROOT-URL]
+```
+# python main.py [ROOT-URL]
+```
