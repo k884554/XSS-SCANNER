@@ -1,0 +1,384 @@
+1512988716994	geckodriver	INFO	geckodriver 0.18.0
+1512988716999	geckodriver	INFO	Listening on 127.0.0.1:58893
+1512988717410	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512988718114	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:38:38.254 firefox-bin[17924:22204098] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:38:38.254 firefox-bin[17924:22204098] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:38:38.254 firefox-bin[17924:22204098] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:38:38.254 firefox-bin[17924:22204098] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:38:38.254 firefox-bin[17924:22204098] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:38:39.350 plugin-container[17925:22204208] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512988719859	Marionette	INFO	Listening on port 58900
+1512988720079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512988720142	Marionette	DEBUG	Register listener.js for window 2147483649
+1512988721162	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512988721176	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512988721177	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512988721183	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8080/xss/reflect/textarea1_fp?in=%3C/textarea%3E%3Cscript%3Ealert(%22IDS%22);%3C/script%3E"
+1512988721275	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8080/xss/reflect/textarea1_fp?in=%3C/textarea%3E%3Cscript%3Ealert(%22IDS%22);%3C/script%3E"
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512988743321	geckodriver	INFO	geckodriver 0.18.0
+1512988743325	geckodriver	INFO	Listening on 127.0.0.1:58953
+1512988743699	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512988744287	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:39:04.406 firefox-bin[17929:22205195] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:39:04.406 firefox-bin[17929:22205195] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:39:04.406 firefox-bin[17929:22205195] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:39:04.407 firefox-bin[17929:22205195] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:39:04.407 firefox-bin[17929:22205195] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:39:05.258 plugin-container[17930:22205271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa12b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512988745890	Marionette	INFO	Listening on port 58960
+1512988745925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512988745993	Marionette	DEBUG	Register listener.js for window 2147483649
+1512988747077	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512988747090	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512988747091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512988747096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8080/xss/reflect/textarea1_fp?in=%3C/textarea%3E%3Cscript%3Ealert(%22IDS%22);%3C/script%3E"
+1512988747144	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8080/xss/reflect/textarea1_fp?in=%3C/textarea%3E%3Cscript%3Ealert(%22IDS%22);%3C/script%3E"
+1512988800854	geckodriver	INFO	geckodriver 0.18.0
+1512988800860	geckodriver	INFO	Listening on 127.0.0.1:59087
+1512988801255	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512988802170	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:40:02.402 firefox-bin[17975:22207189] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:02.402 firefox-bin[17975:22207189] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:02.402 firefox-bin[17975:22207189] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:02.402 firefox-bin[17975:22207189] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:02.402 firefox-bin[17975:22207189] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:03.611 plugin-container[17976:22207413] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512988804392	Marionette	INFO	Listening on port 59095
+1512988805493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512988805754	Marionette	DEBUG	Register listener.js for window 2147483649
+1512988821225	geckodriver	INFO	geckodriver 0.18.0
+1512988821229	geckodriver	INFO	Listening on 127.0.0.1:59162
+1512988821634	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512988822402	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:40:22.527 firefox-bin[17989:22208278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:22.528 firefox-bin[17989:22208278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:22.528 firefox-bin[17989:22208278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:22.528 firefox-bin[17989:22208278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:22.528 firefox-bin[17989:22208278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:23.475 plugin-container[17990:22208411] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512988824066	Marionette	INFO	Listening on port 59169
+1512988824172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512988824230	Marionette	DEBUG	Register listener.js for window 2147483649
+1512988846843	geckodriver	INFO	geckodriver 0.18.0
+1512988846847	geckodriver	INFO	Listening on 127.0.0.1:59239
+1512988847240	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512988847905	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:40:48.034 firefox-bin[17994:22209118] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:48.034 firefox-bin[17994:22209118] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:48.034 firefox-bin[17994:22209118] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:48.034 firefox-bin[17994:22209118] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:48.034 firefox-bin[17994:22209118] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:40:48.894 plugin-container[17996:22209261] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512988849553	Marionette	INFO	Listening on port 59246
+1512988849607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512988849676	Marionette	DEBUG	Register listener.js for window 2147483649
+1512988865664	geckodriver	INFO	geckodriver 0.18.0
+1512988865669	geckodriver	INFO	Listening on 127.0.0.1:59307
+1512988866062	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512988866849	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:41:06.990 firefox-bin[17999:22209811] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:06.990 firefox-bin[17999:22209811] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:06.990 firefox-bin[17999:22209811] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:06.990 firefox-bin[17999:22209811] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:06.990 firefox-bin[17999:22209811] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:07.988 plugin-container[18000:22209890] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512988868476	Marionette	INFO	Listening on port 59314
+1512988868661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512988868733	Marionette	DEBUG	Register listener.js for window 2147483649
+1512988869655	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512988869669	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512988869670	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512988902293	geckodriver	INFO	geckodriver 0.18.0
+1512988902297	geckodriver	INFO	Listening on 127.0.0.1:59408
+1512988902697	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512988903389	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:41:43.518 firefox-bin[18006:22211739] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:43.518 firefox-bin[18006:22211739] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:43.518 firefox-bin[18006:22211739] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:43.518 firefox-bin[18006:22211739] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:43.518 firefox-bin[18006:22211739] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:44.577 plugin-container[18007:22211820] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512988905457	Marionette	INFO	Listening on port 59415
+1512988905587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512988905674	Marionette	DEBUG	Register listener.js for window 2147483649
+1512988906935	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512988906949	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512988906949	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512988914121	geckodriver	INFO	geckodriver 0.18.0
+1512988914126	geckodriver	INFO	Listening on 127.0.0.1:59480
+1512988914526	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512988915208	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:41:55.333 firefox-bin[18012:22212278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:55.333 firefox-bin[18012:22212278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:55.333 firefox-bin[18012:22212278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:55.333 firefox-bin[18012:22212278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:55.333 firefox-bin[18012:22212278] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:41:56.378 plugin-container[18013:22212354] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512988916806	Marionette	INFO	Listening on port 59487
+1512988916962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512988917025	Marionette	DEBUG	Register listener.js for window 2147483649
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512988958123	geckodriver	INFO	geckodriver 0.18.0
+1512988958127	geckodriver	INFO	Listening on 127.0.0.1:59619
+1512988958521	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512988959209	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:42:39.350 firefox-bin[18019:22213608] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:42:39.350 firefox-bin[18019:22213608] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:42:39.350 firefox-bin[18019:22213608] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:42:39.350 firefox-bin[18019:22213608] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:42:39.350 firefox-bin[18019:22213608] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:42:40.282 plugin-container[18021:22213692] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512988960807	Marionette	INFO	Listening on port 59626
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512988961021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512988961084	Marionette	DEBUG	Register listener.js for window 2147483649
+1512989032424	geckodriver	INFO	geckodriver 0.18.0
+1512989032428	geckodriver	INFO	Listening on 127.0.0.1:59795
+1512989032932	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512989033652	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:43:53.780 firefox-bin[18031:22215638] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:43:53.780 firefox-bin[18031:22215638] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:43:53.780 firefox-bin[18031:22215638] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:43:53.780 firefox-bin[18031:22215638] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:43:53.780 firefox-bin[18031:22215638] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:43:54.825 plugin-container[18032:22215716] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512989035577	Marionette	INFO	Listening on port 59802
+1512989035680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512989035753	Marionette	DEBUG	Register listener.js for window 2147483649
+1512989036989	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512989037004	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512989037005	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512989049296	geckodriver	INFO	geckodriver 0.18.0
+1512989049301	geckodriver	INFO	Listening on 127.0.0.1:59876
+1512989049704	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512989050424	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:44:10.547 firefox-bin[18035:22216304] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:44:10.547 firefox-bin[18035:22216304] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:44:10.547 firefox-bin[18035:22216304] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:44:10.547 firefox-bin[18035:22216304] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:44:10.547 firefox-bin[18035:22216304] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:44:11.529 plugin-container[18037:22216387] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512989052065	Marionette	INFO	Listening on port 59884
+1512989052248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512989052315	Marionette	DEBUG	Register listener.js for window 2147483649
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18032, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512989154719	geckodriver	INFO	geckodriver 0.18.0
+1512989154723	geckodriver	INFO	Listening on 127.0.0.1:60180
+1512989155159	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512989156033	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:45:56.153 firefox-bin[18051:22220354] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:45:56.153 firefox-bin[18051:22220354] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:45:56.153 firefox-bin[18051:22220354] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:45:56.153 firefox-bin[18051:22220354] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:45:56.153 firefox-bin[18051:22220354] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:45:57.188 plugin-container[18052:22220434] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa033, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512989157703	Marionette	INFO	Listening on port 60187
+1512989157878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512989157947	Marionette	DEBUG	Register listener.js for window 2147483649
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512989177438	geckodriver	INFO	geckodriver 0.18.0
+1512989177442	geckodriver	INFO	Listening on 127.0.0.1:60226
+1512989177823	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512989178427	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:46:18.604 firefox-bin[18056:22221130] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:46:18.604 firefox-bin[18056:22221130] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:46:18.604 firefox-bin[18056:22221130] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:46:18.604 firefox-bin[18056:22221130] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:46:18.604 firefox-bin[18056:22221130] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:46:19.795 plugin-container[18057:22221211] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512989180320	Marionette	INFO	Listening on port 60233
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512989180508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512989180615	Marionette	DEBUG	Register listener.js for window 2147483649
+1512989384371	geckodriver	INFO	geckodriver 0.18.0
+1512989384375	geckodriver	INFO	Listening on 127.0.0.1:60385
+1512989384758	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512989385413	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:49:45.537 firefox-bin[18090:22226908] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:49:45.538 firefox-bin[18090:22226908] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:49:45.538 firefox-bin[18090:22226908] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:49:45.538 firefox-bin[18090:22226908] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:49:45.538 firefox-bin[18090:22226908] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:49:46.535 plugin-container[18091:22226986] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512989387314	Marionette	INFO	Listening on port 60393
+1512989387504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512989387575	Marionette	DEBUG	Register listener.js for window 2147483649
+1512989389069	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512989389085	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512989389085	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512989408288	geckodriver	INFO	geckodriver 0.18.0
+1512989408295	geckodriver	INFO	Listening on 127.0.0.1:60447
+1512989408762	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1512989409408	Marionette	INFO	Enabled via --marionette
+2017-12-11 19:50:09.524 firefox-bin[18095:22227864] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:50:09.524 firefox-bin[18095:22227864] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:50:09.524 firefox-bin[18095:22227864] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:50:09.524 firefox-bin[18095:22227864] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:50:09.525 firefox-bin[18095:22227864] CFPropertyListCreateFromXMLData(): Old-style plist parser: missing semicolon in dictionary on line 3. Parsing will be abandoned. Break on _CFPropertyListMissingSemicolon to debug.
+2017-12-11 19:50:10.421 plugin-container[18096:22227944] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1512989411055	Marionette	INFO	Listening on port 60457
+1512989411128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512989411205	Marionette	DEBUG	Register listener.js for window 2147483649
+1512989412363	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512989412378	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512989412379	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512989412385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8080/xss/reflect/textarea1_fp?in=%3C/textarea%3E%3Cscript%3Ealert(%22IDS%22);%3C/script%3E"
+1512989412449	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8080/xss/reflect/textarea1_fp?in=%3C/textarea%3E%3Cscript%3Ealert(%22IDS%22);%3C/script%3E"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/captivedetect.js, line 339: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/captivedetect.js, line 339: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/captivedetect.js, line 339: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/captivedetect.js, line 339: ReferenceError: gSysMsgr is not defined
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/captivedetect.js, line 339: ReferenceError: gSysMsgr is not defined
+2017-12-11 21:00:26.759 plugin-container[20081:22395591] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-11 21:01:32.571 plugin-container[20091:22398451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-11 21:07:15.569 plugin-container[20149:22411770] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://127.0.0.1:8080/xss/reflect/onmouseover?in=%22onmouseover%3Dalert%28%27IDS%27%29%22, line 1: SyntaxError: missing ; before statement
+2017-12-11 21:18:47.680 plugin-container[20238:22433196] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/captivedetect.js, line 339: ReferenceError: gSysMsgr is not defined
+2017-12-11 21:20:19.552 plugin-container[20251:22435728] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: javascript:alert(8007)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(8007)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(8007)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(8007)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(8007)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(8007)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(8007)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(IDS)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(IDS)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(IDS)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(IDS)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(IDS)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(IDS)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(IDS)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(IDS)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(1)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(1)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(1)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert(1)/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert()/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert()/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert()/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert()/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert()/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert()/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert()/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert()/*http://example.com, line 1: SyntaxError: unterminated comment
+JavaScript error: javascript:alert()/*http://example.com, line 1: SyntaxError: unterminated comment
+2017-12-11 21:24:56.416 plugin-container[20289:22445102] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: http://127.0.0.1:8080/xss/reflect/js3?in=js3, line 9: ReferenceError: js3 is not defined
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 32: Error: 2147500034
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 326: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+2017-12-13 17:08:43.178 plugin-container[23410:23557549] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-13 17:09:53.688 plugin-container[23469:23560400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: https://owb101.goo.ne.jp/caller/businessanswer-1.js, line 781: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-107302808-1, line 64: unreachable code after return statement
+JavaScript warning: http://localhost:8889/static/auth/js/main.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost:8889/static/notebook/js/main.min.js?v=efd791e02a038d862a838d7a12b52cc1, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://localhost:8889/static/components/requirejs/require.js?v=6da8be361b9ee26c5e721e76c6d4afce, line 165: Error: Script error for "components/moment/locale/ja"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: http://toyota.jp/pages/_system/common/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://toyota.jp/pages/contents/include/carlineup/js/scroll_nav.js?v=2017121317, line 1: TypeError: sessionStorage is null
+JavaScript error: http://onetag.tws.toyota.jp/onetag/body line 1715 > Function, line 3: NS_ERROR_UNEXPECTED: 
+JavaScript error: http://toyota.jp/pages/_system/recommend/js/recommend.js?v=2017121317, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 223: TypeError: this._mm is null
+JavaScript error: https://mbp.yimg.com/sy/zz/combo?yui:/3.18.0/yui/yui-min.js, line 16: TypeError: e.config.doc.defaultView is null
+2017-12-13 18:13:46.706 plugin-container[25133:23682039] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-13 18:46:14.232 plugin-container[25424:23748955] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript warning: http://localhost:8889/static/tree/js/main.min.js?v=9db74abb68a8a732d0ea4621f505aa4e, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://localhost:8889/static/components/requirejs/require.js?v=6da8be361b9ee26c5e721e76c6d4afce, line 165: Error: Script error for "components/moment/locale/ja"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: http://localhost:8889/static/notebook/js/main.min.js?v=efd791e02a038d862a838d7a12b52cc1, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://localhost:8889/static/components/requirejs/require.js?v=6da8be361b9ee26c5e721e76c6d4afce, line 165: Error: Script error for "components/moment/locale/ja"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: http://localhost:8889/static/notebook/js/main.min.js?v=efd791e02a038d862a838d7a12b52cc1, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://localhost:8889/static/components/requirejs/require.js?v=6da8be361b9ee26c5e721e76c6d4afce, line 165: Error: Script error for "components/moment/locale/ja"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: http://localhost:8889/static/notebook/js/main.min.js?v=efd791e02a038d862a838d7a12b52cc1, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://localhost:8889/static/components/requirejs/require.js?v=6da8be361b9ee26c5e721e76c6d4afce, line 165: Error: Script error for "components/moment/locale/ja"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js, line 42: NS_NOINTERFACE: 
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/shared/layout/utils.js, line 42: NS_NOINTERFACE: 
+JavaScript error: https://platform.twitter.com/widgets.js, line 9: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets.js, line 9: Error: Network error.
+JavaScript error: https://platform.twitter.com/widgets.js, line 9: Error: Network error.
+JavaScript error: https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.2.3.min.js, line 3: TypeError: (intermediate value).apply is not a function
