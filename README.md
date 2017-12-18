@@ -5,3 +5,11 @@ Webアプリケーションのクローリング結果をXSS脆弱性検証す�
 ```
 # python main.py [ROOT-URL]
 ```
+
+# Requirement libraries
+* requests
+* beautifulsoup4
+* selenium
+* tensorflow
+* keras
+* numpy
