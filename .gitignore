@@ -1,5 +1,4 @@
 .gitignore
 geckodriver.log
-.DS_Store
 __pycache__/
 log.txt
