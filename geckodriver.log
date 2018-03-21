@@ -498,3 +498,137 @@ JavaScript error: http://127.0.0.1:8080/xss/reflect/enc2_fp?in=%0d%0a%0d%0a%3C/d
 JavaScript error: http://127.0.0.1:8080/xss/reflect/raw1_fp?in=%0d%0a%0d%0a%3C/button%3E%3Cscript%3Ealert%28%22IDS%22%29%3B%3C/script%3E, line 7: SyntaxError: unterminated string literal
 1513578278858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://127.0.0.1:8080/xss/reflect/raw1_fp?in=%0d%0a%0d%0a%3C/button%3E%3Cscript%3Ealert%28%22IDS%22%29%3B%3C/script%3E"
 1513578278860	Marionette	DEBUG	Received DOM event "pageshow" for "http://127.0.0.1:8080/xss/reflect/raw1_fp?in=%0d%0a%0d%0a%3C/button%3E%3Cscript%3Ealert%28%22IDS%22%29%3B%3C/script%3E"
+1521590595404	geckodriver	INFO	geckodriver 0.20.0
+1521590595484	geckodriver	INFO	Listening on 127.0.0.1:62831
+1521590596429	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/f4/skhh679j0_d97vqdqch9pmk80000gp/T/rust_mozprofile.PkN9p0aVNcK9"
+1521590597176	Marionette	INFO	Enabled via --marionette
+2018-03-21 09:03:18.224 plugin-container[36973:1650967] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:03:18.225 plugin-container[36973:1650967] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:03:18.225 plugin-container[36973:1650967] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:03:18.225 plugin-container[36973:1650967] GetInputSourceEnabledPrefs user pref content can not open
+1521590598756	Marionette	INFO	Listening on port 62842
+1521590598832	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-21 09:03:19.268 plugin-container[36974:1651096] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:03:19.269 plugin-container[36974:1651096] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:03:19.269 plugin-container[36974:1651096] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:03:19.269 plugin-container[36974:1651096] GetInputSourceEnabledPrefs user pref content can not open
+1521590624035	geckodriver	INFO	geckodriver 0.20.0
+1521590624106	geckodriver	INFO	Listening on 127.0.0.1:62910
+1521590625060	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/f4/skhh679j0_d97vqdqch9pmk80000gp/T/rust_mozprofile.7G59Qr3GtXhR"
+1521590625606	Marionette	INFO	Enabled via --marionette
+2018-03-21 09:03:46.757 plugin-container[37486:1652675] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:03:46.758 plugin-container[37486:1652675] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:03:46.759 plugin-container[37486:1652675] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:03:46.759 plugin-container[37486:1652675] GetInputSourceEnabledPrefs user pref content can not open
+1521590627196	Marionette	INFO	Listening on port 62921
+1521590627296	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-21 09:03:47.624 plugin-container[37487:1652750] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:03:47.625 plugin-container[37487:1652750] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:03:47.625 plugin-container[37487:1652750] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:03:47.625 plugin-container[37487:1652750] GetInputSourceEnabledPrefs user pref content can not open
+1521590665113	geckodriver	INFO	geckodriver 0.20.0
+1521590665181	geckodriver	INFO	Listening on 127.0.0.1:63004
+1521590666138	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/f4/skhh679j0_d97vqdqch9pmk80000gp/T/rust_mozprofile.NPzAUw1RgXbo"
+1521590666708	Marionette	INFO	Enabled via --marionette
+2018-03-21 09:04:27.662 plugin-container[37580:1653881] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:04:27.666 plugin-container[37580:1653881] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:04:27.666 plugin-container[37580:1653881] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:04:27.666 plugin-container[37580:1653881] GetInputSourceEnabledPrefs user pref content can not open
+1521590668174	Marionette	INFO	Listening on port 63011
+1521590668246	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-21 09:04:28.623 plugin-container[37582:1653988] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:04:28.624 plugin-container[37582:1653988] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:04:28.624 plugin-container[37582:1653988] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:04:28.624 plugin-container[37582:1653988] GetInputSourceEnabledPrefs user pref content can not open
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521590672853	geckodriver::marionette	ERROR	Failed to stop browser process
+1521590969148	geckodriver	INFO	geckodriver 0.20.0
+1521590969243	geckodriver	INFO	Listening on 127.0.0.1:63237
+1521590970158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/f4/skhh679j0_d97vqdqch9pmk80000gp/T/rust_mozprofile.LVdrLiQ3VFeA"
+1521590970718	Marionette	INFO	Enabled via --marionette
+2018-03-21 09:09:31.661 plugin-container[38587:1664328] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:09:31.663 plugin-container[38587:1664328] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:09:31.663 plugin-container[38587:1664328] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:09:31.663 plugin-container[38587:1664328] GetInputSourceEnabledPrefs user pref content can not open
+1521590972068	Marionette	INFO	Listening on port 63248
+1521590972144	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-21 09:09:32.504 plugin-container[38589:1664413] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8203, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:09:32.505 plugin-container[38589:1664413] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:09:32.506 plugin-container[38589:1664413] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:09:32.506 plugin-container[38589:1664413] GetInputSourceEnabledPrefs user pref content can not open
+1521591234554	geckodriver	INFO	geckodriver 0.20.0
+1521591234635	geckodriver	INFO	Listening on 127.0.0.1:63363
+1521591235574	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/f4/skhh679j0_d97vqdqch9pmk80000gp/T/rust_mozprofile.CESGbRRshPXi"
+1521591236106	Marionette	INFO	Enabled via --marionette
+2018-03-21 09:13:56.991 plugin-container[38718:1669269] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x770b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:13:56.992 plugin-container[38718:1669269] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:13:56.992 plugin-container[38718:1669269] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:13:56.992 plugin-container[38718:1669269] GetInputSourceEnabledPrefs user pref content can not open
+1521591237402	Marionette	INFO	Listening on port 63374
+1521591237474	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-21 09:13:57.855 plugin-container[38719:1669369] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:13:57.856 plugin-container[38719:1669369] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:13:57.856 plugin-container[38719:1669369] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:13:57.856 plugin-container[38719:1669369] GetInputSourceEnabledPrefs user pref content can not open
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521591261460	geckodriver::marionette	ERROR	Failed to stop browser process
+1521591645588	geckodriver	INFO	geckodriver 0.20.0
+1521591645670	geckodriver	INFO	Listening on 127.0.0.1:63955
+1521591646602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/f4/skhh679j0_d97vqdqch9pmk80000gp/T/rust_mozprofile.wVvSZBUNmzEr"
+1521591647128	Marionette	INFO	Enabled via --marionette
+2018-03-21 09:20:48.016 plugin-container[39024:1678139] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:20:48.019 plugin-container[39024:1678139] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:20:48.019 plugin-container[39024:1678139] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:20:48.019 plugin-container[39024:1678139] GetInputSourceEnabledPrefs user pref content can not open
+1521591648442	Marionette	INFO	Listening on port 63966
+1521591648476	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-21 09:20:48.890 plugin-container[39026:1678234] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x833f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:20:48.891 plugin-container[39026:1678234] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:20:48.891 plugin-container[39026:1678234] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:20:48.892 plugin-container[39026:1678234] GetInputSourceEnabledPrefs user pref content can not open
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521591672519	geckodriver::marionette	ERROR	Failed to stop browser process
+1521591883263	geckodriver	INFO	geckodriver 0.20.0
+1521591883333	geckodriver	INFO	Listening on 127.0.0.1:64234
+1521591884285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/f4/skhh679j0_d97vqdqch9pmk80000gp/T/rust_mozprofile.jkBdBBLIXUb5"
+1521591884818	Marionette	INFO	Enabled via --marionette
+2018-03-21 09:24:45.735 plugin-container[39129:1683491] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:24:45.737 plugin-container[39129:1683491] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:24:45.737 plugin-container[39129:1683491] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:24:45.737 plugin-container[39129:1683491] GetInputSourceEnabledPrefs user pref content can not open
+1521591886132	Marionette	INFO	Listening on port 64241
+1521591886182	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-21 09:24:46.578 plugin-container[39133:1683602] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:24:46.579 plugin-container[39133:1683602] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:24:46.579 plugin-container[39133:1683602] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:24:46.579 plugin-container[39133:1683602] GetInputSourceEnabledPrefs user pref content can not open
+1521591975420	geckodriver	INFO	geckodriver 0.20.0
+1521591975489	geckodriver	INFO	Listening on 127.0.0.1:64549
+1521591976445	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/f4/skhh679j0_d97vqdqch9pmk80000gp/T/rust_mozprofile.79VWykHbRe8F"
+1521591977006	Marionette	INFO	Enabled via --marionette
+2018-03-21 09:26:17.898 plugin-container[39200:1686855] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:26:17.901 plugin-container[39200:1686855] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:26:17.901 plugin-container[39200:1686855] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:26:17.901 plugin-container[39200:1686855] GetInputSourceEnabledPrefs user pref content can not open
+1521591978310	Marionette	INFO	Listening on port 64556
+1521591978326	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-03-21 09:26:18.778 plugin-container[39202:1686995] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-03-21 09:26:18.779 plugin-container[39202:1686995] GetInputSourceEnabledPrefs user file path = /Users/nagao/Library/Preferences/com.apple.HIToolbox.plist
+2018-03-21 09:26:18.779 plugin-container[39202:1686995] GetInputSourceEnabledPrefs effective user id path = 502
+2018-03-21 09:26:18.779 plugin-container[39202:1686995] GetInputSourceEnabledPrefs user pref content can not open

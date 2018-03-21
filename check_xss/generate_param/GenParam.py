@@ -1,6 +1,6 @@
 import sys
-sys.path.append("/Users/NAGAO/antixss/prototype/predict/")
-sys.path.append("/Users/NAGAO/antixss/prototype/generate_seed/")
+sys.path.append("./check_xss/generate_param/predict/")
+sys.path.append("./check_xss/generate_param//generate_seed/")
 from predict_without_space import predict_wos
 from GenSeed import gen_seed
 
@@ -13,11 +13,11 @@ class gen_param:
         seed = G.generate()
         P = predict_wos(seed)
         pred = P.predict()
-        
+
         print("----- URL     : " + self.str_url)
         print("----- SEED    : " + seed)
         print("----- PREDS   : " + pred)
 
         param = pred + self.rxss
-        
+
         return param

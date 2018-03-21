@@ -14,7 +14,7 @@ import re
 class predict_wos:
     def __init__(self, str_seed):
         self.str_seed = str_seed
-    
+
     def predict(self):
         def build_dataset(txt):
                 new_word_id = 0
@@ -44,18 +44,18 @@ class predict_wos:
 
                 return d_words, t_words
 
-        path = "./corpus/tag_list.txt"
+        path = "./check_xss/generate_param/predict/corpus/tag_list.txt"
         maxlen = 20
 
         text = open(path).read().lower()
         d_words, t_words = build_dataset(text)
         d_words = sorted(list(set(d_words)))
-        
+
         word_indices = dict((w, i) for i, w in enumerate(d_words))
         indices_word = dict((i, w) for i, w in enumerate(d_words))
-        
-        model = model_from_json(open('/Users/NAGAO/antixss/prototype/model/without_space/html_tag_hokan.json').read())
-        model.load_weights('/Users/NAGAO/antixss/prototype/model/without_space/html_tag_hokan_weights.h5')
+
+        model = model_from_json(open('./check_xss/generate_param/predict/model/without_space/html_tag_hokan.json').read())
+        model.load_weights('./check_xss/generate_param/predict/model/without_space/html_tag_hokan_weights.h5')
 
         #model.summary()
 
@@ -89,13 +89,13 @@ class predict_wos:
         sentence = l
         for w in sentence:
             generated += w
-            
+
         for w in sentence:
             print(w, end="")
         print('"')
-        
+
         output = ""
-        
+
         for i in range(100):
             x_pred = np.zeros((1, maxlen, len(d_words)))
             for t, word in enumerate(sentence):
@@ -115,6 +115,5 @@ class predict_wos:
                 break
 
             sys.stdout.flush()
-        
+
         return output
-        

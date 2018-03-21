@@ -33,21 +33,30 @@ def check_xss(url, driver):
             print("----- REQ_URL : " + req_url)
             driver.get(req_url)
             Alert(driver).accept()
-        
+
     try:
         print('======== CHECKING STANDARD XSS ========')
         check(url, driver)
         print("EXISTS!")
-    except:
+    except Exception as e:
+        # print('=== エラー内容 ===')
+        # print('type:' + str(type(e)))
+        # print('args:' + str(e.args))
+        # print('message:' + e.message)
+        # print('e自身:' + str(e))
         try:
             print('==== CHECKING DOUBLE-ENCODING XSS ====')
             check(url, driver, double_encoding=True)
             print("EXISTS!")
-        except:
+        except Exception as e:
+            # print('=== エラー内容 ===')
+            # print('type:' + str(type(e)))
+            # print('args:' + str(e.args))
+            # print('message:' + e.message)
+            # print('e自身:' + str(e))
             try:
                 print('==== CHECKING RESPONSE-SPLITTING XSS ====')
                 check(url, driver, response_splitting=True)
                 print("EXISTS!")
             except:
                 print("NOT EXIST.")
-            
